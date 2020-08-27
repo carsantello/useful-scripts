@@ -3,11 +3,11 @@
 
 ### Table of Contents
 1. [ About the repository](https://github.com/kdav5758/useful-scripts#about-the-repository)
-    1.1 [ License Information](https://github.com/kdav5758/useful-scripts#license-information)
+        1.1 [ License Information](https://github.com/kdav5758/useful-scripts#license-information)
 2. [ How to contribute ](https://github.com/kdav5758/useful-scripts#how-to-contribute)
 3. [ Reporting Issues ](https://github.com/kdav5758/useful-scripts#reporting-issues)
 4. [ Contact ](https://github.com/kdav5758/useful-scripts#contact)
-    4.1. [ Syntax ](https://github.com/kdav5758/useful-scripts#syntax)
+        4.1. [ Syntax ](https://github.com/kdav5758/useful-scripts#syntax)
 5. [ Comments ](https://github.com/kdav5758/useful-scripts#comments)
 
 ## About the repository
