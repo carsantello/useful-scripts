@@ -1,8 +1,12 @@
 # Useful and easy-to-use shell scripts :coffee:
 ##### A collection of interesting and useful shell scripts for different purposes
 
+[TOCM]
+
+[TOC]
+
 ## About the repository
-All the scripts in this repository include in-line explanation on **how to be used** and some use the -h/--help parameter for a more indeep explanation on how they should be used.
+All the scripts in this repository include in-line explanation on **how to be used** and some use the `$0 -h`/`$0 --help` parameter for a more indeep explanation on how they should be used.
 
 #### License Information
 This repository and the code in it is licensed under the "_GNU General Public License v3.0_". For more information click [here](https://github.com/kdav5758/useful-scripts/blob/master/LICENSE).
