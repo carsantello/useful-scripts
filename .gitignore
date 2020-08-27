@@ -2,3 +2,5 @@
 #binary files info
 /info.txt
 
+#do not ignore /termux_scripts
+!termux_scripts
