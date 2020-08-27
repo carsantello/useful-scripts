@@ -2,5 +2,8 @@
 #binary files info
 /info.txt
 
-#do not ignore /termux_scripts
+#do not ignore /termux_scripts if empty
 !termux_scripts/.keep
+
+#go not ignore /universal_scripts if empty
+!universal_scripts/.keep
