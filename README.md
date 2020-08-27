@@ -1,9 +1,14 @@
 # Useful and easy-to-use shell scripts :coffee:
 ##### A collection of interesting and useful shell scripts for different purposes
 
-[TOCM]
-
-[TOC]
+### Table of Contents
+1. [ About the repository](https://github.com/kdav5758/useful-scripts#about-the-repository)
+1.1 [ License Information](https://github.com/kdav5758/useful-scripts#license-information)
+2. [ How to contribute ](https://github.com/kdav5758/useful-scripts#how-to-contribute)
+3. [ Reporting Issues ](https://github.com/kdav5758/useful-scripts#reporting-issues)
+4. [ Contact ](https://github.com/kdav5758/useful-scripts#contact)
+4.1. [ Syntax ](https://github.com/kdav5758/useful-scripts#syntax)
+5. [ Comments ](https://github.com/kdav5758/useful-scripts#comments)
 
 ## About the repository
 All the scripts in this repository include in-line explanation on **how to be used** and some use the `$0 -h`/`$0 --help` parameter for a more indeep explanation on how they should be used.
