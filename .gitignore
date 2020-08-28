@@ -5,5 +5,8 @@
 #do not ignore /termux_scripts if empty
 !termux_scripts/.keep
 
-#go not ignore /universal_scripts if empty
+#do not ignore /universal_scripts if empty
 !universal_scripts/.keep
+
+#do not ignore /snippets if empty
+!snippets/.keep
